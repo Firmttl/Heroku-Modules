@@ -3,7 +3,7 @@
 """
 
 __version__ = (2, 6, 0)
-# meta developer: @fffri526
+# meta developer: @FirmTTL
 # meta description: Автоматизация отношений Селестиан: обычные и VIP уровни, мониторинг и остановка задач
 
 import asyncio
